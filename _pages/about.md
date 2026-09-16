@@ -29,14 +29,12 @@ latest_posts:
 
 Hello, and welcome to my personal website!
 
-I am a **Financial Economist** and fourth-year **PhD Candidate in Economics** at [Lund University](https://www.lusem.lu.se/organisation/department-economics), supervised by **Anders Vilhelmsson** and **Björn Hagströmer**. I am currently a Visiting Doctoral Researcher at **Singapore Management University**, and have previously visited **Stockholm Business School** and the **National University of Singapore**.
+I am a **Financial Economist** and fourth-year **PhD Candidate in Economics** at [Lund University](https://www.lusem.lu.se/organisation/department-economics), supervised by [Anders Vilhelmsson](https://sites.google.com/site/andersvilhelmsson777/home) and **Björn Hagströmer**. I am currently a Visiting Doctoral Researcher at the finance department of [Singapore Management University](https://business.smu.edu.sg/) hosted by Dr. Bart Zhou Yueshen, and have previously visited the Enviornmental and Sustainability and Ecnomics Analytical Lab at [National University of Singapore](https://blog.nus.edu.sg/bioeconlab/) hosted by Dr. Roman Carrasco and the finance department at [Stockholm Business School](https://www.su.se/english/divisions/stockholm-business-school).
 
 I hold an MSc in **Economics** and an MSc in **Finance** from Lund University, and a BAcc (Hons) in **Accountancy with Finance** from the **University of Glasgow**, which included a year of study abroad at **Keio University** in Tokyo.
 
 **Research interests:** market microstructure, climate and green finance, and international finance.
 
 Alongside my academic research, I have worked on **institutional and policy research** for the **European Investment Fund** and the **EU–Japan Centre for Industrial Cooperation**, contributing to publications on venture capital, private equity, Japanese firm longevity, and international taxation.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
