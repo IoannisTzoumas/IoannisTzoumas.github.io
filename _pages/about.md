@@ -27,7 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, and welcome to my personal website!
+
+I am a **Financial Economist** and fourth-year **PhD Candidate in Economics** at [Lund University](https://www.lusem.lu.se/organisation/department-economics), supervised by **Anders Vilhelmsson** and **Björn Hagströmer**. I am currently a Visiting Doctoral Researcher at **Singapore Management University**, and have previously visited **Stockholm Business School** and the **National University of Singapore**.
+
+I hold an MSc in **Economics** and an MSc in **Finance** from Lund University, and a BAcc (Hons) in **Accountancy with Finance** from the **University of Glasgow**, which included a year of study abroad at **Keio University** in Tokyo.
+
+**Research interests:** market microstructure, climate and green finance, and international finance.
+
+Alongside my academic research, I have worked on **institutional and policy research** for the **European Investment Fund** and the **EU–Japan Centre for Industrial Cooperation**, contributing to publications on venture capital, private equity, Japanese firm longevity, and international taxation.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
