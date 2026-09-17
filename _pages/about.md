@@ -34,5 +34,3 @@ I hold an MSc in **Economics** and an MSc in **Finance** from Lund University, a
 **Research interests:** market microstructure, climate and green finance, and international finance.
 
 Alongside my academic research, I have worked on **institutional and policy research** for the **European Investment Fund** and the **EU–Japan Centre for Industrial Cooperation**, contributing to publications on venture capital, private equity, Japanese firm longevity, and international taxation.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
