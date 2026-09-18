@@ -16,7 +16,6 @@ nav_order: 3
 2024.  
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5047843)
 
-
 ## Work in Progress
 
 **The Green Liquidity Premium**
