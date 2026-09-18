@@ -1,24 +1,29 @@
 ---
 layout: page
-title: Teaching
+title: Teaching & Service
 permalink: /teachingc/
 nav: true
 nav_order: 6
 ---
 
-## Lund University
+## Lund University Teaching
+**Interest Bearing Assets**
+Bachelor's level (7.5 ECTS), 2026
 
 **Financial Risk Management**  
-Master's level, 2024–2027
+Master's level (7.5 ECTS), 2024–2027
 
-**Financial Econometrics**  
-Master's level, 2024–2025
+**Financial Econometrics and Machine Learning**  
+Master's level (7.5 ECTS), 2024–2025
 
 **Empirical Finance**  
-Master's level, 2025
+Master's level (7.5 ECTS), 2025
 
 **MSc Thesis Supervision**  
-2024
+Master's level (7.5 ECTS), 2024
 
-**Data Science**  
+**Data Science Lab**  
 2023–2024
+
+## Lund University Service
+**Exam Office Administration**
