@@ -4,6 +4,8 @@ title: Presentations
 permalink: /presentations/
 nav: true
 nav_order: 4
+lang: en
+translation: /ja/presentations/
 ---
 
 ## 2026
