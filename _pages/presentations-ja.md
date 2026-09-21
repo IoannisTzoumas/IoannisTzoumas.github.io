@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 教育
-permalink: /ja/teaching/
+title: 研究発表
+permalink: /ja/presentations/
 nav: false
 lang: ja
-translation: /teaching/
+translation: /presentations/
 ---
 
 ## ルンド大学
